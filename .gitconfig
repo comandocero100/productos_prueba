@@ -1,6 +1,0 @@
-[user]
-    name =  Cristian Eduardo Rodriguez Quiroz
-    email = cristianerodriguez607@gmail.com
-[core]
-    editor = code --wait
-    autocrif = true
